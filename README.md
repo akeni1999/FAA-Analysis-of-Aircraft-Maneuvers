@@ -18,4 +18,6 @@ As part of a team, I worked as a developer on the team. I was responsible for pr
 
 ### Result
 
+The accuracy given by different algorithms are as follows:
+
 ![image](https://github.com/akeni1999/FAA-Analysis-of-Aircraft-Maneuvers/assets/66996868/26d981f2-5e4f-4308-a6be-685f3e400579)
